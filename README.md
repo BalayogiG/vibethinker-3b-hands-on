@@ -38,8 +38,7 @@ The notebook (`Hands_on_VibeThinker-3B.ipynb`) walks through, end to end:
 5. **Streaming generation** with `TextIteratorStreamer`
 6. **Inspecting the reasoning trace** (splitting `<think>` blocks from the final answer)
 7. **Batched inference** with correct left-padding
-8. **Optional high-throughput serving** with vLLM / SGLang
-9. **Practical tips & gotchas**, including notes on thinking-token control
+8. **Practical tips & gotchas**, including notes on thinking-token control
 
 ---
 
