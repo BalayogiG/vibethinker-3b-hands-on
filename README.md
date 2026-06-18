@@ -2,7 +2,7 @@
 
 A practical, runnable Jupyter notebook for getting started with [`WeiboAI/VibeThinker-3B`](https://huggingface.co/WeiboAI/VibeThinker-3B) — a 3B-parameter reasoning model that punches far above its weight on **verifiable** tasks like competition math, coding, and STEM.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalayogiG/vibethinker-3b-hands-on/blob/main/VibeThinker-3B.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalayogiG/vibethinker-3b-hands-on/blob/main/Hands_on_VibeThinker-3B.ipynb)
 [![Model](https://img.shields.io/badge/🤗%20Model-VibeThinker--3B-yellow)](https://huggingface.co/WeiboAI/VibeThinker-3B)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
